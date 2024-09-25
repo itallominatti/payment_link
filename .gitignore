@@ -1,0 +1,47 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências
+/node_modules
+/.pnp
+.pnp.js
+
+# Compilação
+/dist
+/build
+
+# Diretórios de produção
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testes
+/coverage
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Outros
+*.swp
+*.lock
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+.venv
+venv
